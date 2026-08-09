@@ -1,6 +1,8 @@
+![cover](./images/image.png)
+
 # Annotation Mono Ligatures
 
-A modified version of [AnnotationMono](https://qwerasd.com/), a programming font by Qwerasd.
+A modified version of [AnnotationMono](https://github.com/qwerasd205/AnnotationMono), a programming font by Qwerasd.
 
 ## Changes
 
