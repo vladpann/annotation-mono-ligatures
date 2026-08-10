@@ -12,6 +12,8 @@ This version adds:
   - `==`
   - `===`
   - `!=`
+- Italic styles have been removed
+- Only **Regular**, **Medium**, and **Bold** styles
 
 ## Installation
 
