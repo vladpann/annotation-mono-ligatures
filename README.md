@@ -6,14 +6,11 @@ A modified version of [AnnotationMono](https://github.com/qwerasd205/AnnotationM
 
 This version adds:
 
-- Cyrillic character support
 - Programming ligatures for:
   - `:=`
   - `==`
   - `===`
   - `!=`
-- Italic styles have been removed
-- Only **Regular**, **Medium**, and **Bold** styles
 
 ## Installation
 
