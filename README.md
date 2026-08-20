@@ -6,6 +6,7 @@ A modified version of [AnnotationMono](https://github.com/qwerasd205/AnnotationM
 
 This version adds:
 
+- Nerd Font
 - Programming ligatures for:
   - `:=`
   - `==`
